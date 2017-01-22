@@ -1,4 +1,0 @@
-SELECT * FROM TAGS
- WHERE 
-TAG_ID = ?
-;

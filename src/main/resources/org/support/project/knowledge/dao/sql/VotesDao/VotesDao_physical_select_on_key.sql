@@ -1,4 +1,0 @@
-SELECT * FROM VOTES
- WHERE 
-VOTE_NO = ?
-;

@@ -1,4 +1,0 @@
-DELETE FROM PINS
-WHERE 
-NO = ?
-;

@@ -1,5 +1,0 @@
-SELECT * FROM STOCKS
- WHERE 
-USER_ID = ?
-;
-;
